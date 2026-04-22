@@ -2,6 +2,8 @@
 
 Autistic writer, system designer, and builder of local-first AI systems.
 
+I build open foundations for AI systems that keep context over time, stay close to the user's own machine and data, and grow from desktop tools into adaptive daily assistance.
+
 I am building toward a personal AI habitat: a runtime that starts on a local machine, grows into an operating layer, and eventually extends across phones, wearables, sensors, and future devices to help people stay oriented, supported, and able to grow.
 
 ## What I am building
@@ -49,5 +51,6 @@ I do not publish the full internal orchestration layer, private prompts, or the 
 ## Links
 
 - [Website](https://medioevo.space)
+- [Software / Open Source](https://medioevo.space/software.html#open-source)
 - [Store](https://lrgonzalez.gumroad.com)
 - [GitHub Projects](https://github.com/Lutren?tab=repositories)
