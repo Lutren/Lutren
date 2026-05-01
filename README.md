@@ -4,28 +4,28 @@ I build local-first safety gates for AI agents: evidence before action, audit tr
 
 [Sponsor the work](https://github.com/sponsors/Lutren) · [Website](https://medioevo.space) · [Open source](https://medioevo.space/software.html#open-source)
 
-## What this work is for
+## What This Work Is For
 
 AI agents are becoming useful faster than teams can audit them. My public work focuses on tools and practices that make agent actions easier to inspect, pause, hand off, and review before they touch sensitive workflows.
 
 I build open foundations for persistent context, local-first workflows, safety gates, release discipline, and practical documentation for builders who want agents to be useful without losing control of evidence, boundaries, or continuity.
 
-The public layer is intentionally practical: small tools, clear protocols, examples, and checklists that developers can inspect. The private layer stays private until it is mature, packaged, and paid.
+The public layer is intentionally practical: small tools, protocols, examples, and checklists that developers can inspect. The deeper implementation layer, private integrations, and consulting stay paid.
 
-## Public work now
+## Public Work Now
 
-- [safe-exec](https://github.com/Lutren/safe-exec): safe tool execution for LLM agents with fatigue-aware gating and witness logs
-- [agent-handoff-protocol](https://github.com/Lutren/agent-handoff-protocol): a practical handoff workflow for coding agents in shared repositories
-- [agent-release-checklist](https://github.com/Lutren/agent-release-checklist): a release checklist for safely shipping agent-built projects
-- [rapid-agent-guardian](https://github.com/Lutren/rapid-agent-guardian): a public-safe agent handoff and safety gate scaffold for the Google Cloud Rapid Agent Hackathon
-- [medioevo-tools](https://github.com/Lutren/medioevo-tools): open-source writing, KDP, and multi-model orchestration tools for indie fiction authors
-- [data-double-slit](https://github.com/Lutren/data-double-slit): a deterministic data-interference simulator for comparing parallel interpretations before a decision
+- [safe-exec](https://github.com/Lutren/safe-exec): safe tool execution for LLM agents with fatigue-aware gating and witness logs.
+- [agent-handoff-protocol](https://github.com/Lutren/agent-handoff-protocol): a practical handoff workflow for coding agents in shared repositories.
+- [agent-release-checklist](https://github.com/Lutren/agent-release-checklist): a release checklist for safely shipping agent-built projects.
+- [rapid-agent-guardian](https://github.com/Lutren/rapid-agent-guardian): a public-safe agent handoff and safety gate scaffold for the Google Cloud Rapid Agent Hackathon.
+- [medioevo-tools](https://github.com/Lutren/medioevo-tools): open-source writing, KDP, and multi-model orchestration tools for indie fiction authors.
+- [data-double-slit](https://github.com/Lutren/data-double-slit): a deterministic data-interference simulator for comparing parallel interpretations before a decision.
 
 ## Sponsorship
 
 Sponsorship funds maintenance, tests, docs, security review, and public-safe demos for local-first AI safety gates.
 
-Current goal: 25 monthly sponsors to fund public-safe docs, tests, release checklists, sanitized examples, and lightweight demos for builders who want AI agents to leave evidence before action.
+Current goal: 25 monthly sponsors to fund public-safe documentation, tests, release checklists, sanitized examples, and lightweight demos for builders who want AI agents to leave evidence before action.
 
 Monthly tiers planned for GitHub Sponsors:
 
@@ -38,7 +38,8 @@ Monthly tiers planned for GitHub Sponsors:
 Sponsorship does not include private prompts, the full internal orchestration layer, unreleased books, RPG/TCG material, family data, secrets, or absolute outcome claims.
 
 The useful public layer stays open and verifiable. The deeper implementation work, private integrations, and consulting stay paid.
-## Design principles
+
+## Design Principles
 
 - observe first, document clearly, then act
 - keep users close to their own tools and data
@@ -46,13 +47,11 @@ The useful public layer stays open and verifiable. The deeper implementation wor
 - build for continuity, not novelty spikes
 - keep sensitive orchestration private until it is ready
 
-## Long-term direction
+## Long-Term Direction
 
-The goal is not another chatbot.
+The goal is not another chatbot. The goal is a local-first operating layer for AI assistance: tools that preserve context, reduce friction, support repeated work, and help people or teams stay oriented across sessions without handing every workflow to a black box.
 
-The goal is a local-first operating layer for AI assistance: tools that can preserve context, reduce friction, support repeated work, and help people or teams stay oriented across sessions without handing every workflow to a black box.
-
-## Current focus
+## Current Focus
 
 - local desktop runtime foundations
 - tool reliability and safety layers
@@ -60,7 +59,7 @@ The goal is a local-first operating layer for AI assistance: tools that can pres
 - evidence stores, review gates, and public-safe examples
 - foundations for broader assistive and operational systems
 
-## Public boundary
+## Public Boundary
 
 I share public tools, working foundations, and practical interfaces.
 
