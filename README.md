@@ -25,17 +25,19 @@ The public layer is intentionally practical: small tools, clear protocols, examp
 
 Sponsorship funds maintenance, tests, docs, security review, and public-safe demos for local-first AI safety gates.
 
-Suggested levels:
+Current goal: 25 monthly sponsors to fund public-safe docs, tests, release checklists, sanitized examples, and lightweight demos for builders who want AI agents to leave evidence before action.
 
-- $5 Observador: monthly public-safe updates
-- $19 Constructor: early local demos and technical notes
-- $50 Laboratorio: benchmark reports and public-safe priorities
-- $100 Patron: optional mention and one short monthly consultation
+Monthly tiers planned for GitHub Sponsors:
+
+- $5 Observer: monthly public-safe build notes on agent safety gates, evidence trails, shipped work, failed tests, and next priorities.
+- $19 Builder: early access to public-safe local demos, examples, and short implementation notes for agent safety gates.
+- $50 Lab: public-safe benchmark notes, release-risk reports, and priority voting for open examples and documentation.
+- $100 Patron: optional mention plus one short monthly office-hours consult on public-safe local-first agent workflows, boundaries, or release planning.
+- $500 Integration Sponsor: one monthly implementation review or architecture note for public-safe/local-first agent workflows, with no private IP transfer, secret access, or guaranteed outcomes.
 
 Sponsorship does not include private prompts, the full internal orchestration layer, unreleased books, RPG/TCG material, family data, secrets, or absolute outcome claims.
 
 The useful public layer stays open and verifiable. The deeper implementation work, private integrations, and consulting stay paid.
-
 ## Design principles
 
 - observe first, document clearly, then act
