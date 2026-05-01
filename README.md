@@ -1,60 +1,58 @@
 # Tyr / Lutren
 
-Autistic writer, system designer, and builder of local-first AI systems.
+I build local-first safety gates for AI agents: evidence before action, audit trails, handoffs, and public-safe release workflows.
 
-I build open foundations for AI systems that keep context over time, stay close to the user's own machine and data, and grow from desktop tools into adaptive daily assistance.
+[Sponsor the work](https://github.com/sponsors/Lutren) · [Website](https://medioevo.space) · [Open source](https://medioevo.space/software.html#open-source)
 
-I am building toward a personal AI habitat: a runtime that starts on a local machine, grows into an operating layer, and eventually extends across phones, wearables, sensors, and future devices to help people stay oriented, supported, and able to grow.
+## What this work is for
 
-## What I am building
+AI agents are becoming useful faster than teams can audit them. My public work focuses on tools and practices that make agent actions easier to inspect, pause, hand off, and review before they touch sensitive workflows.
 
-- persistent-context systems for continuity across sessions
-- local-first tools for writers, operators, and small independent teams
-- adaptive assistance for routines, learning, appointments, and medication support
-- interfaces shaped for autistic users, older adults, and people with complex support needs
+I build open foundations for persistent context, local-first workflows, safety gates, release discipline, and practical documentation for builders who want agents to be useful without losing control of evidence, boundaries, or continuity.
 
-## What is public now
+## Public work now
 
 - [safe-exec](https://github.com/Lutren/safe-exec): safe tool execution for LLM agents with fatigue-aware gating and witness logs
-- [medioevo-tools](https://github.com/Lutren/medioevo-tools): open-source writing, KDP, and multi-model orchestration tools for indie fiction authors
-- [data-double-slit](https://github.com/Lutren/data-double-slit): a deterministic data-interference simulator for comparing parallel interpretations before a decision
 - [agent-handoff-protocol](https://github.com/Lutren/agent-handoff-protocol): a practical handoff workflow for coding agents in shared repositories
 - [agent-release-checklist](https://github.com/Lutren/agent-release-checklist): a release checklist for safely shipping agent-built projects
+- [medioevo-tools](https://github.com/Lutren/medioevo-tools): open-source writing, KDP, and multi-model orchestration tools for indie fiction authors
+- [data-double-slit](https://github.com/Lutren/data-double-slit): a deterministic data-interference simulator for comparing parallel interpretations before a decision
 
 ## Sponsorship
 
-If this work is useful to you, you can sponsor the public layer: https://github.com/sponsors/Lutren
+Sponsorship funds maintenance, tests, docs, security review, and public-safe demos for local-first AI safety gates.
 
-Sponsorship funds maintenance, tests, docs, security review, and public-safe demos for local-first AI safety gates. It does not include private prompts, the full internal orchestration layer, unreleased books, RPG/TCG material, family data, secrets, or absolute outcome claims.
+It does not include private prompts, the full internal orchestration layer, unreleased books, RPG/TCG material, family data, secrets, or absolute outcome claims.
+
+The useful public layer stays open and verifiable. The deeper implementation work, private integrations, and consulting stay paid.
 
 ## Design principles
 
 - observe first, document clearly, then act
 - keep users close to their own tools and data
+- make agent work inspectable before it becomes trusted automation
 - build for continuity, not novelty spikes
-- make the public layer useful and verifiable
 - keep sensitive orchestration private until it is ready
 
 ## Long-term direction
 
 The goal is not another chatbot.
 
-The goal is an adaptive assistive system that can move from desktop to devices and sensors, learn a person's rhythms, reduce friction, and help with the practical work of everyday life.
-
-That includes support for routines, learning, orientation, medication reminders, appointments, exercise, and other forms of continuity that matter most to people who cannot afford to lose context.
+The goal is a local-first operating layer for AI assistance: tools that can preserve context, reduce friction, support repeated work, and help people or teams stay oriented across sessions without handing every workflow to a black box.
 
 ## Current focus
 
-- local desktop runtime
+- local desktop runtime foundations
 - tool reliability and safety layers
-- practical interfaces for continuity and self-observation
-- foundations for a broader assistive operating system
+- practical handoff and release workflows for coding agents
+- evidence stores, review gates, and public-safe examples
+- foundations for broader assistive and operational systems
 
 ## Public boundary
 
 I share public tools, working foundations, and practical interfaces.
 
-I do not publish the full internal orchestration layer, private prompts, or the full operational method yet.
+I do not publish the full internal orchestration layer, private prompts, private canon, unreleased product systems, or the full operational method yet.
 
 ## Links
 
