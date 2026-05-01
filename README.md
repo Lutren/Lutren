@@ -19,6 +19,11 @@ I am building toward a personal AI habitat: a runtime that starts on a local mac
 - [medioevo-tools](https://github.com/Lutren/medioevo-tools): open-source writing, KDP, and multi-model orchestration tools for indie fiction authors
 - [data-double-slit](https://github.com/Lutren/data-double-slit): a deterministic data-interference simulator for comparing parallel interpretations before a decision
 
+## Sponsorship
+
+If this work is useful to you, you can sponsor the public layer: https://github.com/sponsors/Lutren
+
+Sponsorship funds maintenance, tests, docs, security review, and public-safe demos for local-first AI safety gates. It does not include private prompts, the full internal orchestration layer, unreleased books, RPG/TCG material, family data, secrets, or absolute outcome claims.
 ## Design principles
 
 - observe first, document clearly, then act
@@ -50,6 +55,7 @@ I do not publish the full internal orchestration layer, private prompts, or the 
 
 ## Links
 
+- [Sponsor](https://github.com/sponsors/Lutren)
 - [Website](https://medioevo.space)
 - [Software / Open Source](https://medioevo.space/software.html#open-source)
 - [Store](https://lrgonzalez.gumroad.com)
