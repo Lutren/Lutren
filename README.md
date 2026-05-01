@@ -24,6 +24,7 @@ I am building toward a personal AI habitat: a runtime that starts on a local mac
 If this work is useful to you, you can sponsor the public layer: https://github.com/sponsors/Lutren
 
 Sponsorship funds maintenance, tests, docs, security review, and public-safe demos for local-first AI safety gates. It does not include private prompts, the full internal orchestration layer, unreleased books, RPG/TCG material, family data, secrets, or absolute outcome claims.
+
 ## Design principles
 
 - observe first, document clearly, then act
