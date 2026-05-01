@@ -18,6 +18,8 @@ I am building toward a personal AI habitat: a runtime that starts on a local mac
 - [safe-exec](https://github.com/Lutren/safe-exec): safe tool execution for LLM agents with fatigue-aware gating and witness logs
 - [medioevo-tools](https://github.com/Lutren/medioevo-tools): open-source writing, KDP, and multi-model orchestration tools for indie fiction authors
 - [data-double-slit](https://github.com/Lutren/data-double-slit): a deterministic data-interference simulator for comparing parallel interpretations before a decision
+- [agent-handoff-protocol](https://github.com/Lutren/agent-handoff-protocol): a practical handoff workflow for coding agents in shared repositories
+- [agent-release-checklist](https://github.com/Lutren/agent-release-checklist): a release checklist for safely shipping agent-built projects
 
 ## Sponsorship
 
