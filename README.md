@@ -1,6 +1,11 @@
 # Tyr / Lutren
 
-I build local-first safety gates for AI agents: evidence before action, audit trails, human handoffs, and public-safe release workflows.
+I build evidence-gated AI infrastructure for people who need agents to remember,
+cite, pause, and ship without losing control of a real workstation.
+
+The short version: I am turning AI agents from clever chat windows into
+auditable local systems with memory, receipts, action gates, and human override
+points.
 
 [Sponsor the work](https://github.com/sponsors/Lutren) · [Website](https://medioevo.space) · [Open source](https://medioevo.space/software.html#open-source)
 
@@ -12,8 +17,31 @@ I build open foundations for persistent context, local-first workflows, safety g
 
 The public layer is intentionally practical: small tools, protocols, examples, and checklists that developers can inspect. The deeper implementation layer, private integrations, and consulting stay paid.
 
+## Problems I Am Attacking
+
+- AI hallucination: make unsupported claims visible by requiring evidence, source
+  notes, falsifiers, and claim gates before publishing.
+- Agent memory loss: preserve continuity through handoff files, fingerprints,
+  technical cards, manifests, and persistent local stores instead of chat-only
+  context.
+- Unsafe autonomy: route risky actions through `APPROVE`, `REVIEW`, or `BLOCK`
+  before file edits, browser actions, deploys, paid APIs, deletion, or public
+  release.
+- Repository chaos: separate open-source tools, paid products, books, private
+  game assets, vendors, archives, and secrets with explicit release boundaries.
+- AI release anxiety: give builders checklists, witness logs, scans, and proof
+  artifacts so shipping agent-built work is inspectable.
+- Generic apps: push toward specialized agent-products where the UI is the
+  paid wrapper and the reusable safety/tooling layer can stay open.
+
 ## Public Work Now
 
+- [obsai-core](https://github.com/Lutren/obsai-core): evidence envelopes, provenance, residue signals, claim gates, and memory continuity primitives.
+- [residueos](https://github.com/Lutren/residueos): local ActionGate for AI agents that converts risky actions into `APPROVE`, `REVIEW`, or `BLOCK`.
+- [observacionismo-gate](https://github.com/Lutren/observacionismo-gate): tiny SDK for evidence, jamming, cost, and approval gates.
+- [obs-safe-integration-kit](https://github.com/Lutren/obs-safe-integration-kit): local-first integration kernel for safer agent wrappers and dry-run adapters.
+- [data-curation-observatory](https://github.com/Lutren/data-curation-observatory): manifests, technical cards, and evidence labels for messy AI research folders.
+- [claudio-system-regulator](https://github.com/Lutren/claudio-system-regulator): public-safe 24/7 regulator kernel for local AI workstation pressure and publication gates.
 - [safe-exec](https://github.com/Lutren/safe-exec): safe tool execution for LLM agents with fatigue-aware gating and witness logs.
 - [agent-handoff-protocol](https://github.com/Lutren/agent-handoff-protocol): a practical handoff workflow for coding agents in shared repositories.
 - [agent-release-checklist](https://github.com/Lutren/agent-release-checklist): a release checklist for safely shipping agent-built projects.
