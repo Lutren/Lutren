@@ -128,6 +128,26 @@ every workflow to a black box.
   held-out evidence
 - foundations for broader assistive and operational systems
 
+## Latest Public Signal
+
+May 2026: the public stack is converging around one practical entry point:
+**Observacionismo for Local-First AI Agents**.
+
+The current engineering direction is simple:
+
+1. `obsai-core` is the canonical evidence/action-gate primitive layer.
+2. `safe-exec` and `obs-safe-integration-kit` turn those primitives into safer
+   wrappers for agents with tools.
+3. `agent-handoff-protocol` and `agent-release-checklist` make multi-session
+   coding work easier to resume and audit.
+4. `duat-lab`, `duat-genesis`, and the calibration toolkits stay inside a
+   research boundary: falsifiers, negative controls, synthetic demos, and
+   public-safe results only.
+
+The useful test is not whether an agent sounds convincing. The useful test is
+whether it can leave evidence, declare uncertainty, survive negative controls,
+pause on risky actions, and produce a replayable witness log.
+
 ## Public Boundary
 
 I share public tools, working foundations, and practical interfaces.
