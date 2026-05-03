@@ -123,6 +123,9 @@ every workflow to a black box.
 - tool reliability and safety layers
 - practical handoff and release workflows for coding agents
 - evidence stores, review gates, and public-safe examples
+- Observacionismo Lab: falsifier workflows for testing whether claims survive
+  source fichas, observer/proxy declarations, baselines, negative controls and
+  held-out evidence
 - foundations for broader assistive and operational systems
 
 ## Public Boundary
