@@ -1,166 +1,240 @@
-# MEDIOEVO / Lutren
+# Luis René González López · Lutren / Tyr
 
-[Sponsor](https://github.com/sponsors/Lutren) · [Website](https://medioevo.space) · [Open source](https://medioevo.space/software.html#open-source) · [Store](https://lrgonzalez.gumroad.com)
+[Website](https://medioevo.space) · [Open Source](https://medioevo.space/software.html) · [Projects](https://medioevo.space/projects.html) · [Sponsor](https://github.com/sponsors/Lutren) · [Store](https://lrgonzalez.gumroad.com) · [LinkedIn](https://www.linkedin.com/in/luis-ren%C3%A9-gonz%C3%A1lez-l%C3%B3pez-64517b20b/) · [Instagram](https://www.instagram.com/luisrene_medioevo/) · [YouTube](https://www.youtube.com/@Medioevolr)
 
-## Español
+**Observacionismo · OSIT · MEDIOEVO**
+Local-first AI agent framework with evidence gates, state-aware processing and session continuity.
 
-Construyo MEDIOEVO: herramientas local-first para que agentes de IA trabajen
-con evidencia, límites y continuidad antes de actuar.
+## Who I Am
 
-La idea humana es simple. Cuando una IA toca código, archivos, cuentas o
-decisiones reales, no basta con que responda bien. Tiene que dejar evidencia,
-explicar qué va a hacer, separar lo seguro de lo riesgoso y permitir revisión
-humana cuando corresponde.
+I am **Luis René González López**, handle **Lutren / Tyr**, an independent AI systems architect and theoretical framework author based in Texas, US.
 
-La capa pública de MEDIOEVO libera software MIT y documentación práctica para
-builders: ActionGate, logs de evidencia, handoffs entre sesiones, fichas
-técnicas, checklists de publicación, curaduría de datos y demos sintéticas.
+I build **MEDIOEVO**: local-first tools for AI agents that must act on real systems such as code, files, accounts, releases and decisions.
 
-La capa de pago ahorra tiempo: plantillas, paquetes listos, soporte, briefings
-y research curado. Las deconstrucciones observacionistas avanzadas,
-Observacionismo Inverso y la Teoría de la Información MEDIOEVO pertenecen a
-tiers altos como material revisado, no como dumps crudos.
+The core problem is simple: an AI agent that can use tools needs more than a good answer. It needs evidence before action, explicit uncertainty, a gate before risky work and a handoff so the next session can continue where the previous one stopped.
 
-Lo privado queda protegido: libros no publicados, videojuego/RPG/TCG, runtime
-interno, OS, DUAT/GEODIA interno, prompts crudos, datasets reales, secretos,
-calibración propietaria y fórmulas no liberadas.
+## Original Theoretical Work
 
-## English
+My public theoretical work centers on **Observacionismo** and **OSIT** as low-claim frameworks for agent workflows, state-aware information processing and release discipline.
 
-I build MEDIOEVO: local-first tools that help AI agents work with evidence,
-boundaries and continuity before they act.
+I describe these as proposed theory, engineering method and public-safe tooling. I do not present them as validated physics, solved consciousness or guaranteed agent safety.
 
-The human idea is simple. When an AI agent touches code, files, accounts or real
-decisions, sounding smart is not enough. It should leave evidence, explain the
-action, separate safe work from risky work and route sensitive steps to human
-review.
+## Observacionismo
 
-MEDIOEVO's public layer releases MIT software and practical documentation for
-builders: ActionGate, evidence logs, session handoffs, technical fichas, release
-checklists, data curation workflows and synthetic demos.
+**Observacionismo** is an epistemological method for AI agent workflows formalized by Luis René González López.
 
-The paid layer saves time: templates, packaged workflows, support, briefings and
-curated research. Advanced Observacionismo deconstructions, inverse
-Observacionismo and MEDIOEVO information theory belong in high tiers as reviewed
-material, not raw dumps.
+The observer does not process from zero. It processes from a state. That state determines whether information is absorbed, distorted or amplified. Observacionismo formalizes that operating condition so agent work can be gated, classified and traced.
 
-The private layer stays protected: unpublished books, the game/RPG/TCG,
-internal runtime, OS, internal DUAT/GEODIA, raw prompts, real datasets, secrets,
-proprietary calibration and unreleased formulas.
-
-## Qué Hace / What It Does
-
-MEDIOEVO turns agent work into something inspectable:
-
-- evidence before action;
-- source fichas before reuse;
-- `APPROVE`, `REVIEW` or `BLOCK` gates before risky work;
-- witness logs and handoffs across sessions;
-- synthetic demos and falsifiers instead of inflated claims;
-- public/private boundaries before release.
-
-## Problemas Que Resuelve / Problems Solved
-
-- Agentes con demasiados permisos pueden actuar demasiado rápido.
-- Las conversaciones pierden contexto y no dejan continuidad verificable.
-- Los repos mezclan código abierto, productos pagos, libros, secretos, vendors y
-  material privado.
-- Las demos de IA pueden convertirse en claims públicos más fuertes que la
-  evidencia real.
-- Los equipos necesitan saber qué hizo un agente antes de confiar en su output.
-
-English:
-
-- Agents with broad permissions can act too fast.
-- Conversations lose context and do not leave verifiable continuity.
-- Repositories mix open code, paid products, books, secrets, vendors and private
-  material.
-- AI demos can become public claims stronger than the evidence.
-- Teams need to know what an agent did before they trust the output.
-
-## Public Work
-
-| line | what it does | typical use | access |
-|---|---|---|---|
-| [obsai-core](https://github.com/Lutren/obsai-core) | evidence, residue, claim and continuity primitives | agent memory, claim gates, fingerprints | MIT/public-safe |
-| [residueos](https://github.com/Lutren/residueos) | local ActionGate with `APPROVE`, `REVIEW`, `BLOCK` | preflight before risky actions | MIT/public-safe |
-| [observacionismo-gate](https://github.com/Lutren/observacionismo-gate) | small SDK for evidence, jamming, cost and approval gates | scripts, libraries and pipelines | MIT/public-safe |
-| [obs-safe-integration-kit](https://github.com/Lutren/obs-safe-integration-kit) | envelopes, evidence store and dry-run wrappers | safer wrappers for agent tools | MIT/public-safe |
-| [data-curation-observatory](https://github.com/Lutren/data-curation-observatory) | fichas, manifests and evidence labels | intake for messy folders and datasets | MIT/public-safe |
-| [safe-exec](https://github.com/Lutren/safe-exec) | safe tool execution patterns for LLM agents | shell/tool review before execution | MIT/public-safe |
-| [agent-handoff-protocol](https://github.com/Lutren/agent-handoff-protocol) | practical handoff workflow | multi-session coding agents | MIT/public-safe |
-| [agent-release-checklist](https://github.com/Lutren/agent-release-checklist) | release checklist for agent-built projects | scans, proof and release discipline | MIT/public-safe |
-| [duat-genesis](https://github.com/Lutren/duat-genesis) | synthetic observable simulation sandbox | falsifiers and low-claim demos | MIT/public-safe; internal DUAT retained |
-| [duat-lab](https://github.com/Lutren/duat-lab) | sanitized lab skeleton for research workflows | synthetic reports and public-safe experiments | MIT/public-safe skeleton |
-| [la-biblioteca-de-alejandria](https://github.com/Lutren/la-biblioteca-de-alejandria) | public index and claims boundary | map of public repos and whitepapers | MIT/public-safe |
-
-## Tier Ladder
-
-| layer | receives | does not include |
-|---|---|---|
-| Free / MIT | fundamental tools, schemas, validators, examples, docs and synthetic demos | private runtime, books, RPG/TCG, raw research, secrets |
-| Gumroad | templates, checklists, workflow packs and time-saving artifacts | source vaults, internal prompts, account access |
-| Sponsors | updates, public-safe demos, implementation notes and curated research | raw dumps, guaranteed outcomes, private datasets |
-| Top tier | reviewed Observacionismo deconstructions, inverse Observacionismo, MEDIOEVO information theory, paper previews and transfer maps | complete raw formula, notebooks, proprietary calibration, internal OS/DUAT |
-| Private | protected IP, books, game, runtime, OS, DUAT/GEODIA, prompts, datasets and calibration | automatic public or sponsor access |
-
-MIT code is actually MIT once released. Tiers provide curation, support,
-packaging, briefings and reviewed research; they do not restrict the rights of
-already-published MIT code.
-
-## Technical Surface
-
-MEDIOEVO public tooling is built around a few repeatable objects:
-
-- `ObservationEnvelope`: records what was observed, source, uncertainty, risk
-  and evidence.
-- `ActionGate`: routes proposed work to `APPROVE`, `REVIEW` or `BLOCK`.
-- `EvidenceStore`: keeps traces, manifests, reports and proof artifacts.
-- `WitnessLog`: makes agent work replayable across sessions.
-- `Fichas`: classify sources before reuse, copying, publishing or deletion.
-- `Falsifiers`: define what would downgrade or block a claim.
-- `Claims Boundary`: prevents demos from becoming promises of science, safety
-  or prediction.
-
-Public repos use MIT only when they are target-clean: no secrets, no private
-runtime, no raw research dumps, no full books, no RPG/TCG, no account state and
-no guaranteed-outcome claims.
-
-## Current Focus
-
-- local-first agent safety gates;
-- evidence stores and witness logs;
-- handoff and release workflows for coding agents;
-- public-safe curation of messy research/data folders;
-- synthetic simulation and falsifier labs;
-- curated Observacionismo research without exposing raw private IP.
-
-## Public Boundary
-
-I do not publish:
-
-- the full internal orchestration layer;
-- private prompts or account/session material;
-- unpublished books or full editorial canon;
-- RPG/TCG source, mechanics, lore, assets or bridge code;
-- internal OS/runtime implementation;
-- internal DUAT/GEODIA;
-- raw Observacionismo, raw inverse Observacionismo or raw information theory;
-- real private datasets, proprietary calibration or complete unreleased formulas.
-
-I also do not claim guaranteed safety, solved hallucinations, social prediction,
-diagnosis, proved consciousness or validated new physics.
-
-The public promise is narrower and more useful:
+Operating loop:
 
 ```text
-Evidence before action. Public-safe MIT foundations. Curated research by tiers. Core IP protected.
+Observe -> Classify -> Verify -> Act -> WitnessLog -> Handoff
 ```
+
+Epistemic classification:
+
+| class | meaning |
+|---|---|
+| `CERTEZA` | directly supported by source, test, hash or closed logic |
+| `INFERENCIA` | plausible but not independently demonstrated |
+| `INCÓGNITA` | missing data, source or validation |
+| `BLOQUEO` | concrete operational risk: secrets, deletion, deployment or external action |
+
+## OSIT
+
+**OSIT** means **Observational State-Induced Tensor**.
+
+I use OSIT as a proposed formal framework extending information processing with receiver and agent state. The public boundary is important: OSIT is not a claim of validated universal physics.
+
+Key operative formula:
+
+```text
+H_eff(X | R) = H(X) * Phi_eff(R)
+```
+
+Interpretation: available information is not the same as usable information. A saturated agent can receive many tokens and still integrate very little.
+
+Variables:
+
+| variable | public meaning |
+|---|---|
+| `R` | Informational Residue: unintegrated load such as open loops, contradictions, unvalidated claims and pending decisions |
+| `Phi_eff` | Effective Efficiency: conversion rate from input into understanding, action and artifact |
+| `J_c` | Jamming Threshold: the point where more input produces less clarity |
+
+Regimes:
+
+| range | regime |
+|---|---|
+| `R <= 0.15` | ÓPTIMO |
+| `0.15 < R <= 0.30` | FUNCIONAL |
+| `0.30 < R <= 0.45` | PRE-JAMMING |
+| `0.45 < R <= 0.60` | JAMMING TEMPRANO |
+| `R > 0.60` | JAMMING |
+
+## DO IOI Processing Cycle
+
+**DO** means **Deconstrucción Observacionista**. It decomposes a source into claims, risks, missing data, dependencies and traceable signals.
+
+**IOI** means **Ingeniería Observacionista Inversa**. It reconstructs the required architecture, test, schema, agent or artifact from the verified target outcome.
+
+Together they form a practical cycle:
+
+```text
+Target outcome -> required evidence -> source decomposition -> risk gate -> artifact -> witness event -> handoff
+```
+
+## ActionGate
+
+**ActionGate** is a decision gate before an AI agent touches a real system.
+
+Outputs:
+
+```text
+APPROVE / REVIEW / BLOCK
+```
+
+Minimal heuristic:
+
+```text
+if phi_eff < 0.60: return BLOCK
+if evidence < 0.55 and risk > 0.30: return REVIEW
+if risk > 0.60: return REVIEW
+return APPROVE
+```
+
+This keeps risky work visible before it becomes a filesystem change, deploy, account action or public claim.
+
+## GhostGate
+
+**GhostGate** is a counterfactual simulation before action:
+
+- Will this lower `R`?
+- Is it reversible?
+- Does it touch secrets?
+- Does it expose private IP?
+- Does the next operator have enough evidence to reconstruct what happened?
+
+If the answer is unclear, the action is downgraded to review or blocked.
+
+## WitnessLog
+
+**WitnessLog** makes significant agent work traceable.
+
+A useful event records:
+
+- timestamp;
+- actor;
+- event;
+- gate;
+- risk;
+- evidence;
+- hash or artifact pointer.
+
+The goal is not bureaucracy. The goal is trust: another model instance or human operator should be able to see what happened without relying on memory or chat vibes.
+
+## Handoff Protocol
+
+The **Handoff Protocol** is a continuity artifact for multi-session work.
+
+It lets a new model instance resume without reading the entire conversation history. Fields include:
+
+- state fingerprint;
+- `R`, `Phi_eff` and regime;
+- unknowns;
+- contract;
+- semantic checksum;
+- ledger entry;
+- reconstruction test.
+
+Core rule:
+
+```text
+The data persists. The operator does not.
+```
+
+## MEDIOEVO System
+
+MEDIOEVO is the broader local-first ecosystem.
+
+| layer | public description |
+|---|---|
+| Claudio | local-first AI runtime, gates, provider hub and agents |
+| CEREBRO | knowledge library, source cards and canon routing |
+| DUAT / GEODIA | visual operating layer and city metaphor |
+| Wabi-Sabi | sensory-cognitive control node, not an AGI claim |
+| Argus | companion interface, PSI HUD and heartbeat |
+
+The public surface exposes methods, tools, skeletons, checklists and synthetic demos. The protected surface keeps private runtime, books, internal DUAT/GEODIA, Wabi-Sabi internals and proprietary calibration out of public repos.
+
+## Public Tools MIT
+
+| repo | purpose |
+|---|---|
+| [obsai-core](https://github.com/Lutren/obsai-core) | evidence, residue, claim and continuity primitives |
+| [residueos](https://github.com/Lutren/residueos) | local ActionGate with `APPROVE`, `REVIEW`, `BLOCK` and SQLite audit trails |
+| [observacionismo-gate](https://github.com/Lutren/observacionismo-gate) | SDK for evidence, jamming, cost and approval gates |
+| [safe-exec](https://github.com/Lutren/safe-exec) | safe execution layer for LLM tools |
+| [obs-safe-integration-kit](https://github.com/Lutren/obs-safe-integration-kit) | evidence envelopes and dry-run wrappers |
+| [data-curation-observatory](https://github.com/Lutren/data-curation-observatory) | source fichas, manifests, deduplication and evidence labels |
+| [agent-handoff-protocol](https://github.com/Lutren/agent-handoff-protocol) | practical handoff workflow for multi-session coding agents |
+| [agent-release-checklist](https://github.com/Lutren/agent-release-checklist) | release checklist for scans, proof and release discipline |
+| [duat-genesis](https://github.com/Lutren/duat-genesis) | synthetic observable simulation sandbox |
+| [duat-lab](https://github.com/Lutren/duat-lab) | sanitized lab skeleton |
+| [la-biblioteca-de-alejandria](https://github.com/Lutren/la-biblioteca-de-alejandria) | public index and claims boundary |
+
+## What This Solves
+
+- AI agents with broad permissions can act too fast without leaving a trace.
+- Conversations lose context between sessions with no verifiable continuity.
+- Repositories mix open code, paid products, books, secrets and private material.
+- AI demos can become public claims stronger than evidence supports.
+- Teams need to know exactly what an agent did before trusting output.
+
+## What I Do NOT Claim
+
+I do not claim:
+
+- solved quantum gravity;
+- solved consciousness;
+- AGI achieved;
+- validated universal physics;
+- medical or clinical guarantees;
+- guaranteed agent safety;
+- guaranteed prediction, revenue or compliance outcomes.
 
 ## Links
 
-- [Sponsor](https://github.com/sponsors/Lutren)
-- [Website](https://medioevo.space)
-- [Software / Open Source](https://medioevo.space/software.html#open-source)
-- [Store](https://lrgonzalez.gumroad.com)
-- [GitHub Projects](https://github.com/Lutren?tab=repositories)
+- Website: [https://medioevo.space](https://medioevo.space)
+- Store: [https://lrgonzalez.gumroad.com](https://lrgonzalez.gumroad.com)
+- Sponsor: [https://github.com/sponsors/Lutren](https://github.com/sponsors/Lutren)
+- LinkedIn: [Luis René González López](https://www.linkedin.com/in/luis-ren%C3%A9-gonz%C3%A1lez-l%C3%B3pez-64517b20b/)
+- Instagram: [@luisrene_medioevo](https://www.instagram.com/luisrene_medioevo/)
+- YouTube: [@Medioevolr](https://www.youtube.com/@Medioevolr)
+- GitHub repositories: [https://github.com/Lutren?tab=repositories](https://github.com/Lutren?tab=repositories)
+
+## Protected IP Boundary
+
+I do not publish:
+
+- books or complete editorial canon;
+- RPG/TCG systems, mechanics, lore, assets or private builds;
+- complete DUAT/GEODIA;
+- Wabi-Sabi internals;
+- private runtime;
+- raw prompts;
+- real datasets;
+- secrets, tokens, logs or account state;
+- proprietary calibration;
+- unreleased formulas;
+- private canon;
+- anything marked `PRIVATE`, `INTERNAL_ONLY`, `SECURITY_REVIEW` or `DO_NOT_PUBLISH`.
+
+Public promise:
+
+```text
+Evidence before action.
+State-aware processing.
+Traceable agent work.
+Open foundations. Protected worlds.
+```
