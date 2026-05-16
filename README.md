@@ -5,6 +5,17 @@
 **Observacionismo · OSIT · MEDIOEVO**
 Local-first AI agent framework with evidence gates, state-aware processing and session continuity.
 
+## Start Here
+
+| intent | route |
+|---|---|
+| Use the public tools | [MEDIOEVO Software](https://medioevo.space/software.html) |
+| Buy templates or reader products | [Official Store](https://lrgonzalez.gumroad.com) |
+| Support public maintenance | [GitHub Sponsors](https://github.com/sponsors/Lutren) |
+| Understand the author and boundary | [About / Public Boundary](https://medioevo.space/about.html) |
+
+The public layer is meant to be useful and inspectable: MIT tools, checklists, templates, source cards, synthetic examples and low-claim theory notes. The private layer stays private.
+
 ## Who I Am
 
 I am **Luis René González López**, handle **Lutren / Tyr**, an independent AI systems architect and theoretical framework author based in Texas, US.
