@@ -16,6 +16,18 @@ Local-first AI agent framework with evidence gates, state-aware processing and s
 
 The public layer is meant to be useful and inspectable: MIT tools, checklists, templates, source cards, synthetic examples and low-claim theory notes. The private layer stays private.
 
+## Currently Building
+
+I am currently building a local-first visual workbench for agentic programming:
+
+- **Wabi visual artifacts:** HTML, JSX, PDF, image, audio, video and JSON previews as first-class artifacts instead of dumping raw source into chat.
+- **OSIT Formal Lab:** reproducible public metrics for residue, gates, usable information and falsifier templates. This is formal-lab work, not a claim of new-physics validation.
+- **Agent City:** apps and NPC-style workers modeled as specialized agents with roles, tools, memory, limits, background and evidence.
+- **Token economy:** Source Cards, hashes, manifests and artifact-first previews to reduce repeated context and unnecessary clarifications.
+- **Open core / protected worlds:** MIT-friendly contracts stay open; books, LORE, Wabi internals, commercial UI, premium agents, RPG/TCG and video sources stay protected.
+
+Current public-safe update: [What I am building now](https://medioevo.space/updates/2026-05-25-working-on.html).
+
 ## Who I Am
 
 I am **Luis René González López**, handle **Lutren / Tyr**, an independent AI systems architect and theoretical framework author based in Texas, US.
@@ -28,7 +40,7 @@ The core problem is simple: an AI agent that can use tools needs more than a goo
 
 My public theoretical work centers on **Observacionismo** and **OSIT** as low-claim frameworks for agent workflows, state-aware information processing and release discipline.
 
-I describe these as proposed theory, engineering method and public-safe tooling. I do not present them as validated physics, solved consciousness or guaranteed agent safety.
+I describe these as proposed theory, engineering method and public-safe tooling. I do not present them as validated physics, a completed consciousness theory or an absolute agent-safety guarantee.
 
 ## Observacionismo
 
@@ -194,6 +206,8 @@ The public surface exposes methods, tools, skeletons, checklists and synthetic d
 | [duat-lab](https://github.com/Lutren/duat-lab) | sanitized lab skeleton |
 | [la-biblioteca-de-alejandria](https://github.com/Lutren/la-biblioteca-de-alejandria) | public index and claims boundary |
 
+MIT/open-core candidates include schemas, validators, ActionGate demos, WitnessLog demos, Source Card contracts, TaskSpec examples, artifact contracts, falsifier templates and synthetic fixtures. Commercial apps, premium UI shells, agent products, installers, books, LORE, Wabi internals and video/audio source files are not automatically MIT.
+
 ## What This Solves
 
 - AI agents with broad permissions can act too fast without leaving a trace.
@@ -207,12 +221,12 @@ The public surface exposes methods, tools, skeletons, checklists and synthetic d
 I do not claim:
 
 - solved quantum gravity;
-- solved consciousness;
-- AGI achieved;
+- completed consciousness theory;
+- general-intelligence achievement;
 - validated universal physics;
 - medical or clinical guarantees;
 - guaranteed agent safety;
-- guaranteed prediction, revenue or compliance outcomes.
+- prediction, revenue or compliance guarantees.
 
 ## Links
 
